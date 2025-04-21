@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+mlflow
+setfit
+datasets
+pydantic
+python-dotenv
